@@ -8,7 +8,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/StudyBud.git
+git clone https://github.com/Satyanshu1925/Study-Buddy
 
 ```
 
@@ -21,7 +21,7 @@ cd StudyBud
 --> Create a virtual environment :
 ```bash
 # Let's install virtualenv first
-pip install virtualenv
+pip3 install virtualenv
 
 # Then we create our virtual environment
 virtualenv envname
@@ -36,7 +36,7 @@ envname\scripts\activate
 
 --> Install the requirements :
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 ```
 
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 --> To run the App, we use :
 ```bash
-python manage.py runserver
+python3 manage.py runserver
 
 ```
 
@@ -64,15 +64,35 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
+  <img width="1436" alt="image" src="https://user-images.githubusercontent.com/59616682/203336618-43d3637e-6af8-4325-a42b-58ac83356d79.png">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
+  <img width="1439" alt="image" src="https://user-images.githubusercontent.com/59616682/203337385-76127fba-a24a-4eec-bd70-a3ea1ab32090.png">
 </td>
+  <tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Register Preview
+</p>
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/59616682/203338056-7aea9ad7-e019-479c-97cd-60eb04706613.png">
+
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  Login Preview
+</p>
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/59616682/203338334-da31cb4b-76a2-4749-a6b2-47d075ef5941.png">  
+</td>
+
+
+
 </table>
 
 
